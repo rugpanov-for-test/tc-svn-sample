@@ -6,3 +6,6 @@ echo "##teamcity[testFinished name='test2']"
 
 echo "##teamcity[testStarted name='test3']"
 echo "##teamcity[testFinished name='test3']"
+
+echo "##teamcity[testStarted name='test4']"
+echo "##teamcity[testFinished name='test4']"
